@@ -7,7 +7,7 @@ issuer = "rJDuRkE6PNorR58BogAkdM5ApFx9VSeePy"
 currency = "MOON"
 name = "MOON"
 desc = "Digital gold on XRPL"
-icon = "https://arweave.net/k7TztFsEhSpdn2elVpZ1DwKJECaYKKaZEEiEQ73cXTA"
+icon = "https://metadata.moonbase.org/logo.png"
 
 [[TOKENS.URLS]]
 url = "https://metadata.moonbase.org"
