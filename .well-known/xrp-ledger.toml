@@ -13,7 +13,7 @@ issuer = "rJDuRkE6PNorR58BogAkdM5ApFx9VSeePy"
 display_precision = 8
 logo_256x256 = "https://arweave.net/k7TztFsEhSpdn2elVpZ1DwKJECaYKKaZEEiEQ73cXTA"
 
-# --- XLS-26 STANDARD (For Xaman/Community Apps) ---
+# --- XLS-26 STANDARD ---
 [[ISSUERS]]
 address = "rJDuRkE6PNorR58BogAkdM5ApFx9VSeePy"
 name = "MOON"
