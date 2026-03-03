@@ -25,7 +25,7 @@ name = "MOON"
 icon = "https://arweave.net/k7TztFsEhSpdn2elVpZ1DwKJECaYKKaZEEiEQ73cXTA"
 
 [[TOKENS.URLS]]
-url = "https://moonxrpl.com"
+url = "https://metadata.moonbase.org"
 type = "website"
 
 [[TOKENS.URLS]]
