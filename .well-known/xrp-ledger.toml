@@ -11,7 +11,7 @@ desc = "MOON Issuer"
 code = "MOON"
 issuer = "rJDuRkE6PNorR58BogAkdM5ApFx9VSeePy"
 display_precision = 8
-icon = "https://arweave.net/k7TztFsEhSpdn2elVpZ1DwKJECaYKKaZEEiEQ73cXTA?ext=png"
+icon = "https://arweave.net/k7TztFsEhSpdn2elVpZ1DwKJECaYKKaZEEiEQ73cXTA"
 
 # --- XLS-26 STANDARD ---
 [[ISSUERS]]
