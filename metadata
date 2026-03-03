@@ -1,0 +1,33 @@
+[METADATA]
+modified = 2026-03-02T12:00:00Z
+description = "Digital gold on XRPL"
+
+# --- OFFICIAL STANDARD (For XRPScan/Bithomp Verification) ---
+[[ACCOUNTS]]
+address = "rJDuRkE6PNorR58BogAkdM5ApFx9VSeePy"
+desc = "MOON Issuer"
+
+[[CURRENCIES]]
+code = "MOON"
+issuer = "rJDuRkE6PNorR58BogAkdM5ApFx9VSeePy"
+display_precision = 8
+logo_256x256 = "https://arweave.net/k7TztFsEhSpdn2elVpZ1DwKJECaYKKaZEEiEQ73cXTA"
+
+# --- XLS-26 STANDARD (For Xaman/Community Apps) ---
+[[ISSUERS]]
+address = "rJDuRkE6PNorR58BogAkdM5ApFx9VSeePy"
+name = "MOON"
+
+[[TOKENS]]
+issuer = "rJDuRkE6PNorR58BogAkdM5ApFx9VSeePy"
+currency = "MOON"
+name = "MOON"
+icon = "https://arweave.net/k7TztFsEhSpdn2elVpZ1DwKJECaYKKaZEEiEQ73cXTA"
+
+[[TOKENS.URLS]]
+url = "https://moonxrpl.com"
+type = "website"
+
+[[TOKENS.URLS]]
+url = "https://x.com/moonxrpl"
+type = "social"
